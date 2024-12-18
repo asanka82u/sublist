@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SIN Maintenance System - Home</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <style>
+      /* Reset and Base Styles */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      :root {
+        --primary-color: #2563eb;
+        --primary-dark: #1d4ed8;
+        --background-color: #f1f5f9;
+        --card-background: #ffffff;
+        --text-primary: #1e293b;
+        --text-secondary: #64748b;
+        --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -2px rgba(0, 0, 0, 0.1);
+      }
+
+      body {
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        background-color: var(--background-color);
+        color: var(--text-primary);
+        line-height: 1.6;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
+        flex-grow: 1;
+      }
+
+      .header {
+        text-align: center;
+        margin-bottom: 3rem;
+      }
+
+      .header h1 {
+        color: var(--primary-color);
+        font-size: 2.5rem;
+        margin-bottom: 0.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .header p {
+        color: var(--text-secondary);
+      }
+
+      .navigation-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+      }
+
+      .nav-card {
+        background-color: var(--card-background);
+        border-radius: 0.75rem;
+        padding: 2rem;
+        text-align: center;
+        box-shadow: var(--shadow);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        text-decoration: none;
+        color: var(--text-primary);
+        border: 2px solid transparent;
+      }
+
+      .nav-card:hover {
+        transform: translateY(-10px);
+        border-color: var(--primary-color);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+
+      .nav-card i {
+        font-size: 3rem;
+        color: var(--primary-color);
+        margin-bottom: 1rem;
+      }
+
+      .nav-card h2 {
+        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+      }
+
+      .nav-card p {
+        color: var(--text-secondary);
+      }
+
+      .footer {
+        text-align: center;
+        padding: 1rem;
+        background-color: var(--card-background);
+        color: var(--text-secondary);
+        margin-top: 2rem;
+      }
+
+      @media (max-width: 768px) {
+        .navigation-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      /* Quick Stats Section */
+      .quick-stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-top: 2rem;
+      }
+
+      .stat-card {
+        background-color: var(--card-background);
+        border-radius: 0.5rem;
+        padding: 1.5rem;
+        text-align: center;
+        box-shadow: var(--shadow);
+      }
+
+      .stat-card .stat-icon {
+        font-size: 2rem;
+        color: var(--primary-color);
+        margin-bottom: 0.5rem;
+      }
+
+      .stat-card .stat-value {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--text-primary);
+      }
+
+      .stat-card .stat-label {
+        color: var(--text-secondary);
+        font-size: 0.875rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1><i class="fas fa-bolt"></i> SIN Maintenance System</h1>
+        <p>Manage and Track Substation Information Network</p>
+      </header>
+
+      <div class="navigation-grid">
+        <a href="reporting.html" class="nav-card" id="reporting-link">
+          <i class="fas fa-chart-bar"></i>
+          <h2>Reporting & Search</h2>
+          <p>View and search substation maintenance records</p>
+        </a>
+
+        <a
+          href="record-management.html"
+          class="nav-card"
+          id="record-management-link"
+        >
+          <i class="fas fa-database"></i>
+          <h2>Record Management</h2>
+          <p>Add, update, and delete substation records</p>
+        </a>
+      </div>
+
+      <div class="quick-stats">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-server"></i></div>
+          <div class="stat-value" id="total-substations">0</div>
+          <div class="stat-label">Total Substations</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-tools"></i></div>
+          <div class="stat-value" id="maintenance-due">0</div>
+          <div class="stat-label">Due for Maintenance</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-calendar-alt"></i></div>
+          <div class="stat-value" id="next-month-maintenance">0</div>
+          <div class="stat-label">Next Month Maintenance</div>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <p>&copy; 2024 SIN Maintenance System. All rights reserved.</p>
+      </footer>
+    </div>
+
+    <script>
+      // Function to fetch quick stats from the JSON data
+      async function fetchQuickStats() {
+        try {
+          const response = await fetch("updated_data.json");
+          const data = await response.json();
+
+          // Total substations
+          document.getElementById("total-substations").textContent =
+            data.length;
+
+          // Calculate maintenance due
+          const today = new Date();
+          const threeYearsInMs = 3 * 365 * 24 * 60 * 60 * 1000;
+
+          const dueMaintenance = data.filter((item) => {
+            const lastMaintenance = item.LastMaintenanceDate
+              ? new Date(item.LastMaintenanceDate)
+              : null;
+            if (!lastMaintenance) return true;
+            const nextDueDate = new Date(
+              lastMaintenance.getTime() + threeYearsInMs
+            );
+            return today >= nextDueDate;
+          });
+
+          // Next month maintenance
+          const nextMonthEnd = new Date(
+            today.getFullYear(),
+            today.getMonth() + 2,
+            0
+          );
+          const nextMonthMaintenance = data.filter((item) => {
+            const lastMaintenance = item.LastMaintenanceDate
+              ? new Date(item.LastMaintenanceDate)
+              : null;
+            if (!lastMaintenance) return false;
+            const nextDueDate = new Date(
+              lastMaintenance.getTime() + threeYearsInMs
+            );
+            return nextDueDate > today && nextDueDate <= nextMonthEnd;
+          });
+
+          document.getElementById("maintenance-due").textContent =
+            dueMaintenance.length;
+          document.getElementById("next-month-maintenance").textContent =
+            nextMonthMaintenance.length;
+        } catch (error) {
+          console.error("Error fetching quick stats:", error);
+        }
+      }
+
+      // Fetch stats when page loads
+      document.addEventListener("DOMContentLoaded", fetchQuickStats);
+    </script>
+  </body>
+</html>

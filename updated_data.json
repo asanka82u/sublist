@@ -1,0 +1,1372 @@
+[
+    {
+        "SIN": "G005",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Panagamuwa New",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G010",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Panagamuwa",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2021-08-31 00:00:00",
+        "NextMaintenanceDate": "2024-08-31 00:00:00"
+    },
+    {
+        "SIN": "G020",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Wanchawala",
+        "Type": "Distribution",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-02-05 00:00:00",
+        "NextMaintenanceDate": "2027-02-05 00:00:00"
+    },
+    {
+        "SIN": "G022",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Pahalawaththa",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2021-01-07 00:00:00",
+        "NextMaintenanceDate": "2024-01-07 00:00:00"
+    },
+    {
+        "SIN": "G023",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Royal Kingdom",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-11-30 00:00:00",
+        "NextMaintenanceDate": "2023-11-30 00:00:00"
+    },
+    {
+        "SIN": "G025",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Melegoda",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G026",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Pedinnoruwa",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-21 00:00:00",
+        "NextMaintenanceDate": "2026-12-21 00:00:00"
+    },
+    {
+        "SIN": "G030",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Pilana",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-12-08 00:00:00",
+        "NextMaintenanceDate": "2025-12-08 00:00:00"
+    },
+    {
+        "SIN": "G032",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Rainbow City",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-12-07 00:00:00",
+        "NextMaintenanceDate": "2025-12-07 00:00:00"
+    },
+    {
+        "SIN": "G035",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Pilana New",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-02 00:00:00",
+        "NextMaintenanceDate": "2025-08-02 00:00:00"
+    },
+    {
+        "SIN": "G040",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Diulana",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-02-17 00:00:00",
+        "NextMaintenanceDate": "2027-02-17 00:00:00"
+    },
+    {
+        "SIN": "G045",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Yakgaha",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-11-11 00:00:00",
+        "NextMaintenanceDate": "2025-11-11 00:00:00"
+    },
+    {
+        "SIN": "G050",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Mulana",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-02 00:00:00",
+        "NextMaintenanceDate": "2027-07-02 00:00:00"
+    },
+    {
+        "SIN": "G052",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Ankokkawala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-02-17 00:00:00",
+        "NextMaintenanceDate": "2027-02-17 00:00:00"
+    },
+    {
+        "SIN": "G055",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Halgasmulla",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G058",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Karanketiya",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-02-17 00:00:00",
+        "NextMaintenanceDate": "2027-02-17 00:00:00"
+    },
+    {
+        "SIN": "G060",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Happawana",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G065",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Happawana New",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-12 00:00:00",
+        "NextMaintenanceDate": "2025-08-12 00:00:00"
+    },
+    {
+        "SIN": "G080",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Bogahagoda",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-25 00:00:00",
+        "NextMaintenanceDate": "2027-07-25 00:00:00"
+    },
+    {
+        "SIN": "G085",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Bogahagoda New",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-21 00:00:00",
+        "NextMaintenanceDate": "2026-12-21 00:00:00"
+    },
+    {
+        "SIN": "G090",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Bogahagoda D.S.I",
+        "Type": "Bulk",
+        "Capacity": "800",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-25 00:00:00",
+        "NextMaintenanceDate": "2027-07-25 00:00:00"
+    },
+    {
+        "SIN": "G091",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Welikonda",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-25 00:00:00",
+        "NextMaintenanceDate": "2027-07-25 00:00:00"
+    },
+    {
+        "SIN": "G100",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Dorape",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G108",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Kabaragala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G109",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Suranga Metal Crusher",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G110",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Puswelkada",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G111",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Bedipita",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-09-04 00:00:00",
+        "NextMaintenanceDate": "2027-09-04 00:00:00"
+    },
+    {
+        "SIN": "G118",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Rangoda",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2019-09-05 00:00:00",
+        "NextMaintenanceDate": "2022-09-05 00:00:00"
+    },
+    {
+        "SIN": "G120",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Angulugaha",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G125",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Etamessa",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-03-08 00:00:00",
+        "NextMaintenanceDate": "2025-03-08 00:00:00"
+    },
+    {
+        "SIN": "G130",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Elapahala",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G135",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Paragahawaththa",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G140",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Waulugala",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-21 00:00:00",
+        "NextMaintenanceDate": "2026-12-21 00:00:00"
+    },
+    {
+        "SIN": "G150",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Kundupakanda",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2018-07-21 00:00:00",
+        "NextMaintenanceDate": "2021-07-21 00:00:00"
+    },
+    {
+        "SIN": "G155",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Lipton Groove",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2018-05-03 00:00:00",
+        "NextMaintenanceDate": "2021-05-03 00:00:00"
+    },
+    {
+        "SIN": "G160",
+        "Feeder Id": "NWGAL_GL_F11",
+        "Substation Name": "Lanka Bell",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-27 00:00:00",
+        "NextMaintenanceDate": "2026-11-27 00:00:00"
+    },
+    {
+        "SIN": "G170",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Bambagala",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-03-13 00:00:00",
+        "NextMaintenanceDate": "2026-03-13 00:00:00"
+    },
+    {
+        "SIN": "G175",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Highway",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-21 00:00:00",
+        "NextMaintenanceDate": "2026-12-21 00:00:00"
+    },
+    {
+        "SIN": "G180",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Hameed Oil Mill",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-08 00:00:00",
+        "NextMaintenanceDate": "2026-11-08 00:00:00"
+    },
+    {
+        "SIN": "G190",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Nugaduwa Mill",
+        "Type": "Distribution",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-08 00:00:00",
+        "NextMaintenanceDate": "2026-11-08 00:00:00"
+    },
+    {
+        "SIN": "G200",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Ilem Oil Mill",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-08 00:00:00",
+        "NextMaintenanceDate": "2026-11-08 00:00:00"
+    },
+    {
+        "SIN": "G205",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Kaduruduwa",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G210",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Aththanagoda",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-03-13 00:00:00",
+        "NextMaintenanceDate": "2026-03-13 00:00:00"
+    },
+    {
+        "SIN": "G220",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Yatagala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-12-16 00:00:00",
+        "NextMaintenanceDate": "2025-12-16 00:00:00"
+    },
+    {
+        "SIN": "G225",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Ransiri",
+        "Type": "Bulk",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-02-15 00:00:00",
+        "NextMaintenanceDate": "2026-02-15 00:00:00"
+    },
+    {
+        "SIN": "G228",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Dream Line",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-02-15 00:00:00",
+        "NextMaintenanceDate": "2026-02-15 00:00:00"
+    },
+    {
+        "SIN": "G230",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Metaramba",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G240",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Pinwaththa",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-03-01 00:00:00",
+        "NextMaintenanceDate": "2027-03-01 00:00:00"
+    },
+    {
+        "SIN": "G245",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Halloluwa",
+        "Type": "Bulk & Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G250",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Eramudugaha",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G254",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "East - West Engineering",
+        "Type": "Bulk",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-10-03 00:00:00",
+        "NextMaintenanceDate": "2025-10-03 00:00:00"
+    },
+    {
+        "SIN": "G255",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "G.W. Enterprices",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-10-03 00:00:00",
+        "NextMaintenanceDate": "2025-10-03 00:00:00"
+    },
+    {
+        "SIN": "G259",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Boutiquc Resort",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-08-14 00:00:00",
+        "NextMaintenanceDate": "2026-08-14 00:00:00"
+    },
+    {
+        "SIN": "G260",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Rumassala",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-09 00:00:00",
+        "NextMaintenanceDate": "2025-08-09 00:00:00"
+    },
+    {
+        "SIN": "G261",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Bonavista",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-09 00:00:00",
+        "NextMaintenanceDate": "2025-08-09 00:00:00"
+    },
+    {
+        "SIN": "G265",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Kajugashena",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-09 00:00:00",
+        "NextMaintenanceDate": "2025-08-09 00:00:00"
+    },
+    {
+        "SIN": "G266",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Danwala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-09 00:00:00",
+        "NextMaintenanceDate": "2025-08-09 00:00:00"
+    },
+    {
+        "SIN": "G270",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Celltel",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-08-14 00:00:00",
+        "NextMaintenanceDate": "2026-08-14 00:00:00"
+    },
+    {
+        "SIN": "G275",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Hotel J Unawatuna",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-01 00:00:00",
+        "NextMaintenanceDate": "2025-08-01 00:00:00"
+    },
+    {
+        "SIN": "G276",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Unawatuna Hospital",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-08-14 00:00:00",
+        "NextMaintenanceDate": "2026-08-14 00:00:00"
+    },
+    {
+        "SIN": "G280",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Ceylon Granaite",
+        "Type": "Bulk & Distribution",
+        "Capacity": "400",
+        "kV": "11",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G285",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Galle Metal Crusher",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-02-15 00:00:00",
+        "NextMaintenanceDate": "2026-02-15 00:00:00"
+    },
+    {
+        "SIN": "G290",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Telecom Unawatuna",
+        "Type": "Distribution",
+        "Capacity": "400",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-08-01 00:00:00",
+        "NextMaintenanceDate": "2025-08-01 00:00:00"
+    },
+    {
+        "SIN": "G295",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Flower Garden Hotel",
+        "Type": "Bulk",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-02-15 00:00:00",
+        "NextMaintenanceDate": "2026-02-15 00:00:00"
+    },
+    {
+        "SIN": "G296",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Yaddehimulla III",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G297",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Yaddehimulla New",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-02 00:00:00",
+        "NextMaintenanceDate": "2023-01-02 00:00:00"
+    },
+    {
+        "SIN": "G300",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Yaddehimulla",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2022-09-05 00:00:00",
+        "NextMaintenanceDate": "2025-09-05 00:00:00"
+    },
+    {
+        "SIN": "G302",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Villa Thawthisa",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G303",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Yaddehimulla II",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G305",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Suduwella",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2021-06-11 00:00:00",
+        "NextMaintenanceDate": "2024-06-11 00:00:00"
+    },
+    {
+        "SIN": "G306",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Thapprobain Pavillion",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-02-02 00:00:00",
+        "NextMaintenanceDate": "2026-02-02 00:00:00"
+    },
+    {
+        "SIN": "G310",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "UBR",
+        "Type": "Bulk & Distribution",
+        "Capacity": "400",
+        "kV": "11",
+        "LastMaintenanceDate": "2021-06-11 00:00:00",
+        "NextMaintenanceDate": "2024-06-11 00:00:00"
+    },
+    {
+        "SIN": "G311",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Peellagoda",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-04-25 00:00:00",
+        "NextMaintenanceDate": "2026-04-25 00:00:00"
+    },
+    {
+        "SIN": "G312",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Laveudish Beach(B)",
+        "Type": "Bulk",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G313",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Saffron",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G314",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Sanmira",
+        "Type": "Bulk",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-04-25 00:00:00",
+        "NextMaintenanceDate": "2026-04-25 00:00:00"
+    },
+    {
+        "SIN": "G315",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Ganahena",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G316",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Gurukanda",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G317",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Dalawella",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-04-25 00:00:00",
+        "NextMaintenanceDate": "2026-04-25 00:00:00"
+    },
+    {
+        "SIN": "G318",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Blue Whole",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G319",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Angel Beach",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-04-25 00:00:00",
+        "NextMaintenanceDate": "2026-04-25 00:00:00"
+    },
+    {
+        "SIN": "G320",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Maharamba",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-01-18 00:00:00",
+        "NextMaintenanceDate": "2025-01-18 00:00:00"
+    },
+    {
+        "SIN": "G330",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "G.J.M.Garment",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G335",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Airtel",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-04-25 00:00:00",
+        "NextMaintenanceDate": "2026-04-25 00:00:00"
+    },
+    {
+        "SIN": "G340",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Kumari Rice Mill",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G350",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "United Rice Mill",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G360",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Priyani Rice Mill",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-01-18 00:00:00",
+        "NextMaintenanceDate": "2025-01-18 00:00:00"
+    },
+    {
+        "SIN": "G365",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Why House",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G370",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Nanayakkara Metal Crusher",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-01 00:00:00",
+        "NextMaintenanceDate": "2023-01-01 00:00:00"
+    },
+    {
+        "SIN": "G375",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Jambuketiya",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-15 00:00:00",
+        "NextMaintenanceDate": "2026-12-15 00:00:00"
+    },
+    {
+        "SIN": "G380",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Karapitiya I",
+        "Type": "Bulk & Distribution",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G382",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Accident Unit",
+        "Type": "Bulk",
+        "Capacity": "1000",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G385",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Dolahena",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-12-15 00:00:00",
+        "NextMaintenanceDate": "2026-12-15 00:00:00"
+    },
+    {
+        "SIN": "G390",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Karapitiya II",
+        "Type": "Bulk",
+        "Capacity": "1000",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-10-24 00:00:00",
+        "NextMaintenanceDate": "2027-10-24 00:00:00"
+    },
+    {
+        "SIN": "G391",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Kidney Trransplant Unit THK",
+        "Type": "Bulk",
+        "Capacity": "800",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G392",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Laundry Karapitiya",
+        "Type": "Bulk",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G393",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Linear Accelerator",
+        "Type": "Bulk",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G395",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Cancer Hospital",
+        "Type": "Bulk",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-03 00:00:00",
+        "NextMaintenanceDate": "2025-08-03 00:00:00"
+    },
+    {
+        "SIN": "G400",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Faculty of Medicine",
+        "Type": "Bulk",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-02-06 00:00:00",
+        "NextMaintenanceDate": "2026-02-06 00:00:00"
+    },
+    {
+        "SIN": "G402",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Faculty of Medicine (Hostel)",
+        "Type": "Bulk",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-12-30 00:00:00",
+        "NextMaintenanceDate": "2025-12-30 00:00:00"
+    },
+    {
+        "SIN": "G403",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Maternity Hospital 1",
+        "Type": "Bulk",
+        "Capacity": "1000",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-10-02 00:00:00",
+        "NextMaintenanceDate": "2026-10-02 00:00:00"
+    },
+    {
+        "SIN": "G404",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Maternity Hospital 2",
+        "Type": "Bulk",
+        "Capacity": "1000",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-10-02 00:00:00",
+        "NextMaintenanceDate": "2026-10-02 00:00:00"
+    },
+    {
+        "SIN": "G405",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Panviladuwa",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-03-01 00:00:00",
+        "NextMaintenanceDate": "2027-03-01 00:00:00"
+    },
+    {
+        "SIN": "G410",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Ruhunu Pvt Hospital",
+        "Type": "Bulk",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-02-06 00:00:00",
+        "NextMaintenanceDate": "2026-02-06 00:00:00"
+    },
+    {
+        "SIN": "G420",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Labuduwa",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-07-24 00:00:00",
+        "NextMaintenanceDate": "2025-07-24 00:00:00"
+    },
+    {
+        "SIN": "G430",
+        "Feeder Id": "NWGAL_GL_F13",
+        "Substation Name": "Dasaka",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-29 00:00:00",
+        "NextMaintenanceDate": "2026-11-29 00:00:00"
+    },
+    {
+        "SIN": "G435",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Dakshinapaya",
+        "Type": "Bulk",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-10-19 00:00:00",
+        "NextMaintenanceDate": "2023-10-19 00:00:00"
+    },
+    {
+        "SIN": "G440",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Thotagoda",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-10-19 00:00:00",
+        "NextMaintenanceDate": "2023-10-19 00:00:00"
+    },
+    {
+        "SIN": "G450",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Army camp Boossa",
+        "Type": "Bulk",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-10-24 00:00:00",
+        "NextMaintenanceDate": "2027-10-24 00:00:00"
+    },
+    {
+        "SIN": "G455",
+        "Feeder Id": "NWGAL_GL_F13",
+        "Substation Name": "Godaduwa",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G460",
+        "Feeder Id": "NWGAL_GL_F13",
+        "Substation Name": "Bakers Village (Korean)",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-29 00:00:00",
+        "NextMaintenanceDate": "2026-11-29 00:00:00"
+    },
+    {
+        "SIN": "G465",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "PVC Factory",
+        "Type": "Bulk",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-05-24 00:00:00",
+        "NextMaintenanceDate": "2026-05-24 00:00:00"
+    },
+    {
+        "SIN": "G466",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Labuduwa New",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-05-24 00:00:00",
+        "NextMaintenanceDate": "2026-05-24 00:00:00"
+    },
+    {
+        "SIN": "G467",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Southern Plywood",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-03-25 00:00:00",
+        "NextMaintenanceDate": "2027-03-25 00:00:00"
+    },
+    {
+        "SIN": "G470",
+        "Feeder Id": "NWGAL_GL_F5",
+        "Substation Name": "Higher Education Institute",
+        "Type": "Bulk & Distribution",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-05-24 00:00:00",
+        "NextMaintenanceDate": "2026-05-24 00:00:00"
+    },
+    {
+        "SIN": "G475",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Navinna New",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G480",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Kotigalakanda",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G490",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Navinna",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G500",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Hirimbura",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G510",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Godakanda",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G515",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Kottewatta",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G520",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Takkiyawatta",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G530",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Uluvitike",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G535",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Piyadigama",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-02-28 00:00:00",
+        "NextMaintenanceDate": "2027-02-28 00:00:00"
+    },
+    {
+        "SIN": "G540",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Welipitimodara",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-10 00:00:00",
+        "NextMaintenanceDate": "2026-11-10 00:00:00"
+    },
+    {
+        "SIN": "G541",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Welipitimodara New",
+        "Type": "Distribution",
+        "Capacity": "100",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-10 00:00:00",
+        "NextMaintenanceDate": "2026-11-10 00:00:00"
+    },
+    {
+        "SIN": "G543",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Noorus Serandeep",
+        "Type": "Bulk & Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-03 00:00:00",
+        "NextMaintenanceDate": "2027-07-03 00:00:00"
+    },
+    {
+        "SIN": "G545",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Maha Hapugala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-08-13 00:00:00",
+        "NextMaintenanceDate": "2027-08-13 00:00:00"
+    },
+    {
+        "SIN": "G550",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Elabada",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "33",
+        "LastMaintenanceDate": "2023-11-10 00:00:00",
+        "NextMaintenanceDate": "2026-11-10 00:00:00"
+    },
+    {
+        "SIN": "G560",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Plywood",
+        "Type": "Bulk & Distribution",
+        "Capacity": "630",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-23 00:00:00",
+        "NextMaintenanceDate": "2025-08-23 00:00:00"
+    },
+    {
+        "SIN": "G570",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Ukwatta",
+        "Type": "Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-07-03 00:00:00",
+        "NextMaintenanceDate": "2027-07-03 00:00:00"
+    },
+    {
+        "SIN": "G580",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Navy camp",
+        "Type": "Bulk",
+        "Capacity": "400",
+        "kV": "33",
+        "LastMaintenanceDate": "2022-08-16 00:00:00",
+        "NextMaintenanceDate": "2025-08-16 00:00:00"
+    },
+    {
+        "SIN": "G590",
+        "Feeder Id": "NWGAL_GL_F10",
+        "Substation Name": "Timber Corporation",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2024-10-24 00:00:00",
+        "NextMaintenanceDate": "2027-10-24 00:00:00"
+    },
+    {
+        "SIN": "G600",
+        "Feeder Id": "NWGAL_GL_F2",
+        "Substation Name": "Sanken Lanka",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": "2023-01-06 00:00:00",
+        "NextMaintenanceDate": "2026-01-06 00:00:00"
+    },
+    {
+        "SIN": "G619",
+        "Feeder Id": "NWGAL_GL_F8",
+        "Substation Name": "Mosvold New",
+        "Type": "Bulk",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G625",
+        "Feeder Id": "NWGAL_GL_F8",
+        "Substation Name": "Hirigala",
+        "Type": "Distribution",
+        "Capacity": "160",
+        "kV": "11",
+        "LastMaintenanceDate": null,
+        "NextMaintenanceDate": null
+    },
+    {
+        "SIN": "G700",
+        "Feeder Id": "NWGAL_GL_F1",
+        "Substation Name": "Grand Highway Hotel",
+        "Type": "Bulk & Distribution",
+        "Capacity": "250",
+        "kV": "33",
+        "LastMaintenanceDate": "2020-01-02 00:00:00",
+        "NextMaintenanceDate": "2023-01-02 00:00:00"
+    }
+]
